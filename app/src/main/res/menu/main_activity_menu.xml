@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/theme_mode"
+        android:contentDescription="@string/menu_setting_content_desc"
+        android:icon="@drawable/light_mode"
+
+        android:title="@string/mode"
+        android:tooltipText="Mode"
+        android:visible="true"
+        app:showAsAction="collapseActionView|ifRoom" />
+<!--    <item-->
+<!--        android:id="@+id/search_icon"-->
+<!--        android:contentDescription="@string/search_menu"-->
+<!--        android:icon="@drawable/search_logo"-->
+<!--        android:title="@string/mode"-->
+<!--        android:tooltipText="Mode"-->
+<!--        android:visible="true"-->
+<!--        app:showAsAction="collapseActionView|ifRoom" />-->
+    <item
+        android:id="@+id/profile"
+        android:contentDescription="@string/menu_setting_content_desc"
+        android:icon="@drawable/profile"
+        android:title="@string/you"
+        android:tooltipText="You"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/settings"
+        android:contentDescription="@string/menu_setting_content_desc"
+        android:icon="@drawable/setting_light"
+
+        android:title="@string/Menu_Settings"
+        android:tooltipText="Settings"
+        android:visible="true"
+        app:showAsAction="collapseActionView|ifRoom" />
+    <item
+        android:id="@+id/share"
+        android:contentDescription="@string/menu_setting_content_desc"
+        android:icon="@drawable/share"
+
+        android:title="@string/share"
+        android:tooltipText="Share"
+        android:visible="true"
+        app:showAsAction="collapseActionView|ifRoom" />
+</menu>

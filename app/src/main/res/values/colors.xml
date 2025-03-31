@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splash_bg">#FFFFFF</color>
+    <color name="splash_statusbar_light">#E7EDFF</color>
+    <color name="app_name_color">#FF000000</color>
+    <color name="icon_color">#5D5B5B</color>
+    <color name="splash_upper">#292D32</color>
+    <color name="splash_lower">#020202</color>
+    <color name="note_text_border">#45757878</color>
+    <color name="note_text_background">#4FD3D5D9</color>
+    <color name="search_background_color">#CDD0D0D0</color>
+    <color name="note_text_color">#000000</color>
+    <color name="profile_background">#E3E5EA</color>
+    <color name="login_signup">@color/white</color>
+
+</resources>

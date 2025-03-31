@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <ripple android:color="@color/icon_color" android:radius="100dp" android:effectColor="@color/icon_color" >
+            <item>
+                <shape>
+                    <corners android:radius="8dp" />
+                    <solid android:color="@android:color/transparent" />
+                    <stroke android:color="@color/icon_color" android:dashWidth="0.1px" android:dashGap="45dp" />
+                    <padding android:bottom="12dp" android:left="6dp" android:right="6dp" android:top="12dp" />
+                </shape>
+            </item>
+        </ripple>
+    </item>
+</selector>

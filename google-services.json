@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "450338378430",
+    "project_id": "ripple-notes-app",
+    "storage_bucket": "ripple-notes-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450338378430:android:0913bbb2bb0224b1e404ef",
+        "android_client_info": {
+          "package_name": "com.ankitkumar.project.ripplenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450338378430-89p83ofh8h95unqvql1tnmh562c88ruk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ankitkumar.project.ripplenotes",
+            "certificate_hash": "2567f77d3d0ac50eeee6a28cde1f62cf609a8785"
+          }
+        },
+        {
+          "client_id": "450338378430-qpk74rdlrjbnm12mp6qm08kdeg5763bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC7hZt9t-gMMQ9nz_m8I9kb4u9Jw6kck0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450338378430-qpk74rdlrjbnm12mp6qm08kdeg5763bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

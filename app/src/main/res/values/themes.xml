@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RippleNotes" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:windowBackground">@color/splash_bg</item>
+        <item name="android:colorPrimary">@color/splash_bg</item>
+        <item name="android:navigationBarColor">@color/black</item>
+
+    </style>
+
+    <style name="Theme.RippleNotes.Splash" parent="Theme.SplashScreen">
+        <!-- Set the splash screen background color -->
+        <item name="windowSplashScreenBackground">@color/splash_bg</item>
+
+        <!-- Use your app logo -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_inset</item>
+
+
+      <item name="splashScreenIconSize">40dp</item>
+
+
+        <!-- Control the animation duration -->
+        <item name="windowSplashScreenAnimationDuration">200</item>
+
+
+        <!-- Set the theme of your app after splash screen -->
+        <item name="postSplashScreenTheme">@style/Base.Theme.RippleNotes</item>
+
+
+    </style>
+</resources>

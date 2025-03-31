@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/splash_bg" /> <!-- Light Mode Background -->
+    <item android:gravity="center">
+        <inset android:inset="1400dp">
+            <bitmap  android:gravity="center" />
+        </inset>
+    </item>
+</layer-list>

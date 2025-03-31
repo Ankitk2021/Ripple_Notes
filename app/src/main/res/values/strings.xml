@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Ripple Notes</string>
+    <string name="floating_button_add_new_task">A button to add new to notes</string>
+    <string name="add">Add</string>
+    <string name="Menu_Settings">Settings</string>
+    <string name="menu_setting_content_desc">A menu to show settings</string>
+    <string name="share">Share</string>
+    <string name="you">You</string>
+    <string name="mode">Mode</string>
+    <string name="search_menu">search_menu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_notes">Search notes..</string>
+    <string name="privacy_policy">
+Privacy Policy
+
+Effective Date: 28/03/2025
+
+Welcome to Ripple Notes! Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your data when you use our app.
+
+1. Information We Collect
+
+1.1 Personal Data
+
+We do not collect any personal information like name, email, or phone number.
+
+1.2 Notes and User Content
+
+All notes you create in Ripple Notes are stored locally on your device.
+
+We do not upload, store, or share your notes on any server.
+
+
+1.3 Analytics and Permissions
+
+We may use third-party analytics tools to improve the app experience, but we do not track any personally identifiable data.
+
+The app may request permissions (e.g., storage access) to save and manage your notes effectively.
+
+
+2. How We Use Your Data
+
+We use your data only to provide the core functionality of the app, such as:
+
+Saving and managing notes
+
+Enhancing app performance
+
+
+We do not sell or share your data with third parties.
+
+3. Security
+
+We prioritize the security of your notes. Since all data is stored locally on your device, it is your responsibility to protect your phone from unauthorized access.
+
+4. Third-Party Services
+
+If our app links to external websites (e.g., for backups or resources), we are not responsible for their privacy policies.
+
+5. Your Rights
+
+Since we do not collect personal data, there’s no need to request data deletion. You can simply uninstall the app to remove all stored data.
+
+6. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected in the app.
+
+7. Contact Us
+
+If you have any questions about this Privacy Policy, you can contact us at:
+📧 [ankitkr5447@gmail.com]
+
+Have a good day. ☺️
+</string>
+</resources>

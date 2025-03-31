@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="floating_button_add_new_task">A button to add new to notes</string>
+    <string name="add">Add</string>
+    <string name="Menu_Settings">Settings</string>
+    <string name="menu_setting_content_desc">A menu to show settings</string>
+    <string name="you">You</string>
+    <string name="mode">Mode</string>
+    <string name="search_menu">search_menu</string>
+    <string name="search_notes">Search notes..</string>
+</resources>
